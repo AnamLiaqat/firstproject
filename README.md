@@ -1,6 +1,6 @@
 # firstproject
 GSLS
-## First section
+## Introduction
 
 ## Second section
 
